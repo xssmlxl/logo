@@ -1,7 +1,5 @@
 # Logo Bureau XS-S-M-L-XL
 
-Bureau XS-S-M-L-XL [https://xs-s-m-l-xl.com](https://xs-s-m-l-xl.com)
-
 ### Credits
 
 Contrast Foundry Inc. (CoFo) [https://contrastfoundry.com](https://contrastfoundry.com)
